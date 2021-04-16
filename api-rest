@@ -1,0 +1,2 @@
+#config uri api-rest
+spring.data.rest.base-path=/api/rest
